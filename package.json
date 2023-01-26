@@ -18,13 +18,13 @@
   "homepage": "https://github.com/pasear/jp-address-parser#readme",
   "keywords": ["geocoding", "address-parser", "japanese"],
   "devDependencies": {
-    "mocha": "^7.1.1"
+    "mocha": "^10.2.0"
   },
   "directories": {
     "test": "test"
   },
   "dependencies": {
-    "axios": "^0.19.2",
-    "jsonfile": "^6.0.1"
+    "axios": "^1.2.4",
+    "jsonfile": "^6.1.0"
   }
 }
